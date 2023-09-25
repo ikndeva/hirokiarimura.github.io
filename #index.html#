@@ -1,0 +1,339 @@
+
+<?xml version="1.0" encoding="iso-2022-jp"?>
+<?xml version="1.0" encoding="shift_jis"?>
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+   <meta name="GENERATOR" content="Mozilla/4.7 [ja] (WinNT; I) [Netscape]">
+   <title>Hiroki Arimura home page</title>
+</head>
+<body bgcolor="#FFFFFF">
+
+  
+<table BORDER=0 WIDTH="100%" HEIGHT="24" BGCOLOR="#C4E2FF" ><tr>
+<td NOWRAP WIDTH="20%" BGCOLOR="#BEFC30">
+<b><font size=+1>
+Hiroki Arimura's Home Page 
+</font></b>
+</td>
+<td WIDTH="90%">
+</td>
+</tr></td>
+</tr>
+</table>
+
+<br/>
+
+<dd><font size=+1>Hiroki Arimura, Professor</font></dd>
+<dd>Graduate School of Information Science and Technology, 
+Hokkaido University</dd>
+<dd>Kita 14-jo Nishi 9-chome, Sapporo 060-0814, Japan </dd>
+<dd>phone: +81-11-706-7678, fax: +81-11-706-7890</dd>
+<dd>e-mail: arim@ist.hokudai.ac.jp</dd>
+<dd>http://www-ikn.ist.hokudai.ac.jp/~arim (tentative)</dd>
+
+<br/>
+<br/>
+
+<p>Teaching and research interests include data mining, machine
+learning, logic programming, and design and analysis of algorithms.
+<br>&nbsp;
+
+<!-- 
+<dd>
+<a href="http://www.i.kyushu-u.ac.jp">Department of Informatics</a>,</dd>
+
+<dd>
+<a href="http://www.isee.kyushu-u.ac.jp/">Graduate School of Information
+Science and Electrical Engineering,</a></dd>
+
+<dd>
+<a href="http://www.kyushu-u.ac.jp/">Kyushu University</a></dd>
+
+<dd>
+Hakozaki 6-10-1, Fukuoka 812-8581, Japan</dd>
+
+<dd>
+room: 3623</dd>
+
+<dd>
+phone: +81-92-642-2688</dd>
+
+<dd>
+fax: +81-92-642-2698</dd>
+
+<dd>
+E-mail: <a href="mailto:arim@i.kyushu-u.ac.jp">arim@i.kyushu-u.ac.jp</a></dd>
+
+<dd>
+<a href="http://www.i.kyushu-u.ac.jp/~masa/map.html">Access to Department of Informatics (Map in Japanese and English)</a></dd>
+
+-->
+
+<!--
+
+<br>&nbsp;
+<table BORDER=0 WIDTH="100%" HEIGHT="24" BGCOLOR="#C4E2FF" >
+<tr>
+<td NOWRAP WIDTH="20%" BGCOLOR="#BEFC30">
+<b><font size=+1></font></b>
+</td><td WIDTH="90%"></td>
+</tr>
+</table>
+
+<p>Associate Professor in the <a href="http://www.i.kyushu-u.ac.jp">Department
+of Informatics</a> in the <a href="http://www.isee.kyushu-u.ac.jp/">Graduate
+School of Information Science and Electrical Engineering</a> at <a href="http://www.kyushu-u.ac.jp/">Kyushu
+University</a>. Also a member of PRESTO, Japan Science and Technology Corporation
+since October 1999.
+<p>Teaching and research interests include machine learning, logic programming,
+combinatorics on strings, and analysis of algorithms.
+<br>&nbsp;
+
+-->
+
+<table BORDER=0 WIDTH="100%" HEIGHT="24" BGCOLOR="#C4E2FF" >
+<tr>
+<td NOWRAP WIDTH="20%" BGCOLOR="#BEFC30"><b><font size=+1>
+Research</font></b></td>
+<td WIDTH="90%"></td>
+</tr>
+</table>
+
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER><a href="http://www-ikn.ist.hokudai.ac.jp/~arim/publication.html">Publications</a>
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER><a href="http://www-ikn.ist.hokudai.ac.jp/~arim/jtalks.html">Talks
+in Japanese</a> (In Japanese)
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER><a href="http://www-ikn.ist.hokudai.ac.jp/~arim/awards_en.html">Awards</a>
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER><a
+href="http://www-ikn.ist.hokudai.ac.jp/~arim/academic.txt">Academic
+history (CV)</a>
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER><a href="http://www-ikn.ist.hokudai.ac.jp/~arim/laboratory.html">Papers
+and talks by students</a> (In Japanese)
+
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER> 
+Teaching: Under construction
+
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER> 
+Teaching (at Kyushu University)
+
+<ul>
+<li>
+M110: Algorithm Theory</li>
+
+<li>
+M117, M118: Foundations of Informatics, Seminar I, II</li>
+
+<li>
+M119, M120: Informatics Colloquium I, II</li>
+
+<li>
+Undergraduate Course: Design and Analysis of Algorithms</li>
+
+<li>
+Undergraduate Course: Knowledge Engeneering and Science</li>
+
+<li>
+Computer Literacy</li>
+</ul>
+<img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER><img SRC="star.gif" BORDER=0 height=16 width=16 align=ABSCENTER><a href="http://www-ikn.ist.hokudai.ac.jp/~arim/gradstudents/gradstudents.html">Graduate
+Students and Former Graduate Students</a> (In Japanese)
+
+<p><img SRC="blue.gif" HSPACE=1 height=14 width=14 align=ABSCENTER>
+Activities<br/>
+
+<HR/>
+<IFRAME SRC="./activity.html" WIDTH="100%" HEIGHT="125" SCROLLING="yes" border="2" bordercolor="blue" frameborder="0" marginheight="0">
+</IFRAME>
+<BR/>
+<HR/>
+<DIV align="right">[Scroll here!]</DIV><BR/> 
+
+<br>
+
+<!-- ****************************************** -->
+
+
+<table BORDER=0 WIDTH="100%" HEIGHT="24" BGCOLOR="#C4E2FF" >
+<tr>
+<td NOWRAP WIDTH="20%" BGCOLOR="#BEFC30">
+<b><font size=+1>Links</font></b>
+</td>
+<td WIDTH="90%"></td>
+</tr>
+</table>
+
+<ul>&nbsp;
+
+(out of date)
+
+<li>
+<img SRC="star.gif" BORDER=0 height=16 width=16 align=ABSCENTER>
+<a >
+JSPS-AvH JGFoS (Japanese-German Frontiers of Science)</a>(Jan. 2005,
+Germany). <br/>
+(See also <a href="http://www.jsps.go.jp/j-bilat/jafos/">JAFoS
+(Japanese-American Frontiers of Science)</a>(Dec. 2004, Irvine, USA). 
+<a href="http://www.jsps.go.jp">[JSPS]</a> 
+<a href="http://www.avh.de/">[AvH]</a> )
+
+<li>
+<img SRC="star.gif" BORDER=0 height=16 width=16 align=ABSCENTER>
+<a href="http://www.cs.ust.hk/pakdd/">PAKDD'05, the 9th Pacific-Asia Conference on Knowledge Discovery and
+Data Mining</a> (Hanoi, Vietnam, 2005)</li>
+<li>
+<a href="http://icdm04.cs.uni-dortmund.de/">
+ICDM'04, the Fourth IEEE International Conference on Data Mining</a>
+(Brighton, UK, Nov 01-04, 2004)</li>
+<li>
+<a href="http://hms.liacs.nl/mgts2004/">
+MGTS 2004, the 2nd International Workshop on Mining Graphs, Trees and
+Sequences</a> (Sep. 24, 2004, in conjunction with ECML/PKDD'04, Pisa)</li>
+</li>
+
+<li>
+<img SRC="star.gif" BORDER=0 height=16 width=16 align=ABSCENTER>
+JSPS 21st Century Center of Excellence Program, 
+<a href="http://ca.meme.hokudai.ac.jp/project/coe/">
+"Meme-Media Technology Approach to the R&D of
+Next-Generation Information Technologies" (H15-, Yuzuru Tanaka,
+Hokkaido University) </a>
+</li>
+
+<li>
+<img SRC="star.gif" BORDER=0 height=16 width=16 align=ABSCENTER>
+JSPS <a href="http://www.jsps.go.jp/j-bilat/core/">
+Japan-Korea Core University Project</a>
+<a href="http://www.jsps.go.jp/j-bilat/core/j_hp/4_6kyushu_j.htm">
+"Next Generation Internet", Kyushu University and Chungnam National
+University </a>
+(H15-H18, Cordinators: Dae Young Kim, Setsuo Arikawa; Japan-side
+leader: Koji Okamura)
+</li>
+
+<li>
+<a href="http://www.ar.sanken.osaka-u.ac.jp/activemining/">
+MEXT Grant-in-Aid for Priority Area, "Active Mining" (2001-, 
+Leader: Hiroshi Motoda)</a></li>
+
+<li>
+<img SRC="star.gif" BORDER=0 height=16 width=16 align=ABSCENTER>
+<a href="http://research.nii.ac.jp/kaken-johogaku/">
+MEXT Grant-in-Aid for Priority Area, "Informatics" 
+(2001-, Leader: Yuichiro Anzai)
+</a></li>
+
+</ul>
+
+<hr/>
+
+Past Events (out of date)
+
+<ul>
+<li>
+<a href="http://www.iha.presto.jst.go.jp/f_top.html">
+Information and Human Activity Project: PRESTO, Japan Science and Technology Corporation.
+(1999-2002) (In Japanese)</a></li>
+
+<li>
+<a href="http://research.nii.ac.jp/kaken-johogaku/">Informatics
+Project: Grant-in-Aid for Scientific Research on Priority Areas "Informatics",
+MEXT, Japan</a></li>
+
+<li>
+<a href="http://www.ar.sanken.osaka-u.ac.jp/activemining/">Active
+Mining Project: </a>Grant-in-Aid for Scientific Research on Priority Areas
+"Active Mining", MEXT, Japan.</li>
+
+<li>
+<a href="http://www.cse.unsw.edu.au/~icml2002/">ICML
+2002, International Conference on Machine Learning</a> (Sydney, 8-12 July
+2002)</li>
+
+<li>
+ALT 2002, 13th International Conference on Algorithmic Learning Theory
+(Rubeck, Germany, 24-26 November 2002)</li>
+
+<li>
+DS 2002, 5th International Conference on Discovery Science 2002 (Rubeck,
+Germany, 24-26 November 2002)</li>
+
+<li>
+<a href="http://www.i.kyushu-u.ac.jp/alt2000/">ALT 2001</a>, the 12th International
+Conference on Algorithmic Learning Theory (Washington, DC, 26-29 Nov. 2001
+)</li>
+
+<li>
+<a href="http://www.i.kyushu-u.ac.jp/ds2001/">DS 2001, the 4th International
+Conference on Discovery Science</a> (Washington, DC, 26-29 Nov. 2001)</li>
+
+<li>
+<a href="http://www.i.kyushu-u.ac.jp/alt2000/">ALT 2000</a>, the Eleventh
+International Conference on Algorithmic Learning Theory (Sydney, 11-13
+Dec. 2000)</li>
+
+<li>
+<a href="http://www.i.kyushu-u.ac.jp/ds2000/">Discovery Science 2000 (DS2000)</a>Kyoto,
+4-6 DEC 2000.</li>
+
+<li>
+<a href="http://www.i.kyushu-u.ac.jp/~arikawa/juten/">Project: Grant-in-Aid
+for Scientific Research on Priority Area "Discovery Science", Ministry
+of Education, Sports, and Science (MEXT), Japan (1998 - 2000).</a></li>
+
+<li>
+<a href="http://www.jst.go.jp/Intro/presto.html">PRESTO, Japan Science
+and Technology Corporation</a></li>
+
+<li>
+<font color="#009900"><a href="http://www.iisf.or.jp/SSR/">SSR forum, Joint
+forum for Strategic Software Research</a> (In Japanese)</font></li>
+</ul>
+
+<!-- ****************************************** -->
+
+<hr>
+
+Present and Past Colleagues and Coauthors
+
+<ul>
+
+<li>
+<a href="http://www.ist.hokudai.ac.jp/intro/depart.php?depart_ID=821">
+Department of Computer Science, Hokkaido University
+</a>
+</li>
+
+<li>
+<a href="http://www.i.kyushu-u.ac.jp/people.html.ja">
+Department of Informatics, Kyushu University</a>
+</li>
+
+<li>
+<a href="http://www.cc.kyushu-u.ac.jp/research/">
+Computer Center, Kyushu University</a>
+</li>
+
+<li>
+<a href="http://www.kyutech.ac.jp/top/enterprise/introduction/computer/artificial.html">
+Department of Aritificial Intelligence, Kyushu Institute of Technology</a>
+</li>
+
+<li>
+<a href="http://www.nii.ac.jp/r-theme/j_14.html#01">
+National Institute of Informatics, Japan</a></li>
+
+<li>
+<a href="http://www.cs.gunma-u.ac.jp/">
+Department of Computer Science, Gumma University</a></li>
+
+</ul>
+
+<!-- ****************************************** -->
+
+<hr>Last modified: $Id: arim_en.html,v 1.1.1.1 2008/11/06 03:05:47 arim Exp $
+<address>Hiroki Arimura / arim@ist.hokudai.ac.jp
+</address>
+
+</body>
+</html>
